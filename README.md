@@ -1,6 +1,8 @@
 # XPayLabs-x402-seller: x402 Seller Test Server for USDC Micropayments
 
 > **Last updated:** June 2026
+>
+> [**中文文档**](./README.zh-CN.md)
 
 XPay (XPayLabs) seller test server for the [x402 protocol](https://docs.x402.org) — an open HTTP 402 payment standard for USDC micropayments on EVM chains. Built with Express + `@x402/express` middleware. Use this to test [XPayLabs-x402](https://github.com/yan253319066/XPayLabs-x402) (buyer SDK) or any x402-compatible client without setting up a production seller infrastructure.
 
