@@ -2,7 +2,9 @@
   "name": "xpaylabs-x402-seller",
   "version": "0.1.0",
   "private": true,
-  "description": "Seller test server for x402 protocol — Express middleware demo for testing XPayLabs-x402 buyer SDK",
+  "description": "XPay Labs — x402 seller test server (Express) for testing HTTP 402 micropayment flows.",
+  "keywords": ["xpaylabs", "xpay", "x402", "micropayments", "usdc"],
+  "homepage": "https://www.xpaylabs.com",
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
