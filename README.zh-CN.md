@@ -174,6 +174,11 @@ NETWORK=eip155:8453
 - **语言：** TypeScript 5.6
 - **开发运行：** [tsx](https://www.npmjs.com/package/tsx)
 
+## 仓库
+
+**GitHub:** [yan253319066/XPayLabs-x402-seller](https://github.com/yan253319066/XPayLabs-x402-seller)
+**Gitee（镜像）:** [XPayLabs/XPayLabs-x402-seller](https://gitee.com/XPayLabs/XPayLabs-x402-seller)
+
 ## 许可证
 
 MIT
