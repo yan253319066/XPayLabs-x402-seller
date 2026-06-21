@@ -183,6 +183,11 @@ Yes. Edit `src/index.ts` and add route configs to the `paymentMiddleware()` call
 - **Language:** TypeScript 5.6
 - **Dev runner:** [tsx](https://www.npmjs.com/package/tsx) (TypeScript execution)
 
+## Repository
+
+**GitHub:** [yan253319066/XPayLabs-x402-seller](https://github.com/yan253319066/XPayLabs-x402-seller)
+**Gitee (mirror):** [XPayLabs/XPayLabs-x402-seller](https://gitee.com/XPayLabs/XPayLabs-x402-seller)
+
 ## License
 
 MIT
